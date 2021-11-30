@@ -1,0 +1,16 @@
+:root {
+  --accent-color: #1abc9c;
+  --text-color: #f5f6fa;
+}
+
+body {
+  background: var(--accent-color);
+  color: var(--text-color);
+  padding: 2rem 4rem;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+p {
+  display: none;
+}
